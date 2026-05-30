@@ -1,7 +1,8 @@
-# Ex.No.  - SIMULATION OF POST PROCESSING IN ADDITIVE MANUFACTURING
+# Ex. No. 6.2  - SIMULATION OF POST PROCESSING IN ADDITIVE MANUFACTURING
+### Name: K S Vinay Suhirthan
+### Register Number: 212224230305
 
-### DATE: 
-
+## DATE: 27-05-2025
 ## AIM: 
 ### To simulate the post processing of 3d printed parts via support Removal, UV Curing & Heat Treatment.
 
@@ -47,8 +48,11 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+
+![ex 6 2 1](https://github.com/user-attachments/assets/939ab922-0dad-49d6-9186-5d13a784ca84)
+![ex 6 2 2](https://github.com/user-attachments/assets/9dcf2429-2e05-4513-9f9d-ae7d0c2a519e)
+![ex 6 2 3](https://github.com/user-attachments/assets/65402442-8421-4247-9906-750b2c51cdc6)
+
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
